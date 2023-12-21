@@ -10,9 +10,10 @@ El juego utiliza sockets para permitir la comunicación entre dos jugadores, uno
 
 - Cada jugador tiene una flota de barcos de diferentes tamaños.
 - Los jugadores se turnan para realizar disparos a través de coordenadas en un tablero.
-- ○ indica un disparo que no impactó en ningún barco.
+- ○ indica un disparo que impactó un barco.
 - ● indica la ubicación de los propios barcos del jugador.
-- ○ y ● se utilizan en la representación gráfica del tablero para indicar el estado de cada celda.
+- ~ disparaste y no había nada en esa coordenada
+
   
 ## Requisitos
 
@@ -23,4 +24,6 @@ El juego utiliza sockets para permitir la comunicación entre dos jugadores, uno
 
 ### Servidor
 ```bash
-python nombre_del_script.py -s
+python batalla.py -s
+
+
