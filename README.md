@@ -18,7 +18,7 @@ El juego utiliza sockets para permitir la comunicación entre dos jugadores, uno
 ## Requisitos
 
 - Python 3.x
-- Biblioteca Pygame (para la versión que incluye sonido al realizar disparos)
+- Biblioteca Pygame
 
 ## Instrucciones de Uso
 ### Instalar Pygame en las pc
