@@ -8,7 +8,7 @@ El juego utiliza sockets para permitir la comunicación entre dos jugadores, uno
 
 ## Reglas del Juego
 
-- Cada jugador tiene una flota de barcos de diferentes tamaños.
+- Cada jugador tiene una flota de barcos
 - Los jugadores se turnan para realizar disparos a través de coordenadas en un tablero.
 - ○ indica un disparo que impactó un barco.
 - ● indica la ubicación de los propios barcos del jugador.
