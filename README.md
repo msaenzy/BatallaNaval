@@ -1,4 +1,4 @@
-# Juego de Batalla Naval en LAN
+# Juego de Batalla Naval 
 
 Este proyecto implementa un juego clásico de batalla naval para dos jugadores en Python. Los jugadores colocan estratégicamente sus barcos en un tablero y se turnan para realizar disparos, intentando hundir los barcos del oponente.
 
